@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+define({ availableImg: ["Andersen2017","Avery2011","Beck2016Visual","Bergdahl2024","Dias2023","Hernandez2015","Hind2022","Kraner2021","Palleschi2023","Sutoyo2015","Tan2013"]});
